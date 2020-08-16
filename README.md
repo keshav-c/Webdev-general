@@ -22,3 +22,7 @@ Articles, tools etc of interest, related to web development
  ## Topics to research
  
  - Page `reflow`
+ 
+ ## Tips
+ 
+ - Lazy load images using the `loading` attribute. Use `height` and `width` attributes for faster, smoother resizing.
