@@ -17,7 +17,7 @@ Articles, tools etc of interest, related to web development
   
 - [x] [System design for Advanced Beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 
-  Author: Robert Heaton
+  Author: Robert Heaton (c)
 
 ## Websites
 
@@ -30,3 +30,4 @@ Articles, tools etc of interest, related to web development
  ## Tips
  
  - Lazy load images using the `loading` attribute. Use `height` and `width` attributes for faster, smoother resizing.
+ - CSS `pointer-events: none` 
