@@ -9,7 +9,8 @@ Articles, tools etc of interest, related to web development
 
 ### Programming
 
-- [x] [Why JavaScript is eating HTML](https://css-tricks.com/why-javascript-is-eating-html/)
+* [x] [Why JavaScript is eating HTML](https://css-tricks.com/why-javascript-is-eating-html/)
+* [x] [Callback Hell](http://callbackhell.com/)
   
   Author: Mike Turley | On: CSS-tricks
 
@@ -21,11 +22,27 @@ Articles, tools etc of interest, related to web development
 
 ## Websites
 
-- [Google Developers (Web)](https://developers.google.com/web)
+* [Google Developers (Web)](https://developers.google.com/web)
+* [Node School](https://nodeschool.io/) 
 
- ## Topics to research
+## Books
+
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+    * [x] Describe Patterns and Anti-Patterns
+    * [ ] JavaScript Design Patterns
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+    * [ ] Async & Performance: 
+        * [x] Basics
+        * [x] Callbacks
+        * [ ] Promises
+
+## Topics to research
  
- - Page `reflow`
+* Page `reflow`
+* Static Analysis Tools to find repeated code in project
+    * [PMD](https://pmd.github.io/pmd-6.23.0/pmd_userdocs_cpd.html)
+    * [jscpd](https://github.com/kucherenko/jscpd), also has a [VS Code extension](https://marketplace.visualstudio.com/items?itemName=paulhoughton.vscode-jscpd)
+        * [ ] integrate one of the above tools into Todolist project.
  
  ## Tips
  
