@@ -11,6 +11,7 @@ Articles, tools etc of interest, related to web development
 
 * [x] [Why JavaScript is eating HTML](https://css-tricks.com/why-javascript-is-eating-html/)
 * [x] [Callback Hell](http://callbackhell.com/)
+* [ ] [Promises/A+: An open standard for JavaScript Promises](https://promisesaplus.com/)
   
   Author: Mike Turley | On: CSS-tricks
 
@@ -31,10 +32,7 @@ Articles, tools etc of interest, related to web development
     * [x] Describe Patterns and Anti-Patterns
     * [ ] JavaScript Design Patterns
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-    * [ ] Async & Performance: 
-        * [x] Basics
-        * [x] Callbacks
-        * [ ] Promises
+    * [x] Async & Performance: Basics, Callbacks and Promises
 
 ## Topics to research
  
