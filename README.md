@@ -7,6 +7,11 @@ Articles, tools etc of interest, related to web development
 
 ## Articles
 
+### CSS
+
+* [ ] [Automatic Text Contrast](https://css-tricks.com/methods-contrasting-text-backgrounds/)
+* [ ] [Automatic Text Contrast](https://css-tricks.com/reverse-text-color-mix-blend-mode/)
+
 ### Programming
 
 * [x] [Why JavaScript is eating HTML](https://css-tricks.com/why-javascript-is-eating-html/)
