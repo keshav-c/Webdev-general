@@ -30,6 +30,7 @@ Articles, tools etc of interest, related to web development
 
 * [Google Developers (Web)](https://developers.google.com/web)
 * [Node School](https://nodeschool.io/) 
+* [lowendbox](https://lowendbox.com/): Compare VPS offerings
 
 ## Books
 
